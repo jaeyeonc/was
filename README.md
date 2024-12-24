@@ -1,5 +1,3 @@
-# spring-boot-sample project by ucpwang
-- GitHub : https://github.com/ucpwang/spring-boot-sample
 
 ## spec
 - java 1.8.x
