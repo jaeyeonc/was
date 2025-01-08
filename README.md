@@ -12,11 +12,9 @@
 
 ### install
 ```bash
-$ git clone git@github.com:ucpwang/spring-boot-sample.git
 
-or
+https://github.com/jaeyeonc/was.git
 
-$ git clone https://github.com/ucpwang/spring-boot-sample.git
 ```
 
 ### run
